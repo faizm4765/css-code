@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+
+.parent{
+    color: red;
+    min-height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    /* border: 10px solid purple ; */
+}
+
+.child{
+    color: green;
+    min-height: 60px;
+    margin: 10px;
+    /* border: 10px solid red ; */
+    background-color: yellow;
+}
