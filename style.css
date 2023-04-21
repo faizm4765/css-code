@@ -2,6 +2,11 @@ h1{
     text-align: center;
 }
 
+h1::first-letter{
+    font-size: 3rem;
+    color: red;
+}
+
 .parent{
     color: red;
     min-height: 100px;
